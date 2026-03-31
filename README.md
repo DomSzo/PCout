@@ -1,6 +1,2 @@
-https://filebin.net/q1p82kcuwfiew5my
+[test.pdf](https://github.com/user-attachments/files/26382172/test.pdf)
 
-
-[test2.pdf](https://github.com/user-attachments/files/26376427/test2.pdf)
-
-Checkout, Cart, customer dashboard, producer dashboard, flash messages
